@@ -1,0 +1,16 @@
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.csproj.AssemblyReference.cache
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.csproj.ResolveComReference.cache
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.AssemblyInfoInputs.cache
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.AssemblyInfo.cs
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.csproj.CoreCompileInputs.cache
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\bin\Debug\net6.0-windows\rift-ps4-installer.exe
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\bin\Debug\net6.0-windows\rift-ps4-installer.deps.json
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\bin\Debug\net6.0-windows\rift-ps4-installer.runtimeconfig.json
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\bin\Debug\net6.0-windows\rift-ps4-installer.dll
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\bin\Debug\net6.0-windows\rift-ps4-installer.pdb
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.dll
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\refint\rift-ps4-installer.dll
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.pdb
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\rift-ps4-installer.genruntimeconfig.cache
+C:\Users\Zaydin\source\repos\rift-ps4-installer\rift-ps4-installer\obj\Debug\net6.0-windows\ref\rift-ps4-installer.dll
